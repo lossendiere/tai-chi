@@ -60,7 +60,8 @@
     "uniqCompNum": 21,
     "versionPublish": "4.10.7",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": ""
+    "robotsSwitcher": "",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
